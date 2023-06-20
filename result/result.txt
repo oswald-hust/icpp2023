@@ -1,0 +1,15 @@
+./data/cdn_t
+Cache size: 16GB, OMR(%): 46.7301, BMR(%): 47.8854.
+Cache size: 64GB, OMR(%): 35.9397, BMR(%): 37.3657.
+Cache size: 96GB, OMR(%): 33.8215, BMR(%): 35.2135.
+Cache size: 128GB, OMR(%): 32.8778, BMR(%): 34.2721.
+./data/cdn_w
+Cache size: 16GB, OMR(%): 15.6735, BMR(%): 43.6734.
+Cache size: 64GB, OMR(%): 7.0244, BMR(%): 23.0253.
+Cache size: 96GB, OMR(%): 5.5254, BMR(%): 18.3684.
+Cache size: 128GB, OMR(%): 4.6842, BMR(%): 15.6782.
+./data/cdn_a
+Cache size: 16GB, OMR(%): 81.7995, BMR(%): 81.9223.
+Cache size: 64GB, OMR(%): 72.6398, BMR(%): 71.9186.
+Cache size: 96GB, OMR(%): 69.5507, BMR(%): 68.6152.
+Cache size: 128GB, OMR(%): 67.3466, BMR(%): 66.3137.
